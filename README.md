@@ -1,2 +1,2 @@
 # 1011011
-Some exercises to begin with
+Taken from [Learn to Program](https://pine.fm/LearnToProgram).
